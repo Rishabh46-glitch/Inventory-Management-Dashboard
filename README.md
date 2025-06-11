@@ -1,6 +1,5 @@
-📊 Inventory Management Dashboard – Project Summary (from PBIX)
-Objective:
-To streamline and visualize inventory performance and health, enabling data-driven decisions for stock optimization.
+**📊 Inventory Management Dashboard – **
+  Objective:To streamline and visualize inventory performance and health, enabling data-driven decisions for stock optimization.
 
 **Dashboard Design Highlights:**
 
