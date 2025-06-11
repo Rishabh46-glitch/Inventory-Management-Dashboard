@@ -50,4 +50,4 @@ Improved supply chain responsiveness and visibility across teams.
 Provided a self-serve analytics tool to reduce manual inventory checks.
 
 **Screenshot/Demo:**
-Dashboard Preview-
+Dashboard Preview- https://github.com/Rishabh46-glitch/Inventory-Management-Dashboard/blob/main/My%20Dashboard.png
